@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.python-version
+.venv/
+env/
+venv/
+
+# Node / Next.js
+node_modules/
+.next/
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode / Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Reports / builds
+report/*.docx
+report/*.pdf
+figures/*.svg
+figures/*.png
+figures/*.pdf
+
+# Coverage / testing
+.pytest_cache/
+coverage/
+*.coverage
+
+# Misc
+dist/
+build/
+.env
+.env.local
+.env.*.local
+
